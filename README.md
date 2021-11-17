@@ -1,2 +1,3 @@
-# my-kemis
-A website to find traditional dresses
+# My Kemis
+
+A website to find traditional Ethiopian dresses
