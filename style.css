@@ -1,0 +1,50 @@
+Body {
+    background-color: rgba(243, 197, 255, 0.973);
+}
+header, footer {
+    background-color: rgb(240, 145, 237);
+    text-align: center;
+}
+h1 {
+    color: black;
+    border: white;
+    background-color: rgba(245, 188, 248, 0.986)
+}
+
+header li {
+    border: solid white 1px;
+    color: black;
+    display: inline;
+    background-color: hsla(287, 75%, 84%, 0.795);
+    padding: 3px px;
+    margin: 0px 2em;
+}
+
+section {
+    background-color:rgb(236, 180, 241);
+    text-align: center;
+    color: black
+}
+ 
+img {
+    margin: 1em
+}
+#section2{
+    background-color: white;
+}
+.things {
+    border: solid black;
+    margin: 1px;
+}
+
+footer{
+    color: white;
+    
+}
+
+footer li {
+    text-align: right;
+    margin: 2px;
+    padding: 2px;
+
+}
