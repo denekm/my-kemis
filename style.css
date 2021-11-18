@@ -30,7 +30,8 @@ img {
     margin: 1em
 }
 #section2{
-    background-color: white;
+    background-color: rgb(234, 196, 245);
+    text-align: left;
 }
 .things {
     border: solid black;
