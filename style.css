@@ -2,7 +2,7 @@ Body {
     background-color: rgba(243, 197, 255, 0.973);
 }
 header, footer {
-    background-color: rgb(227, 168, 255);
+    background-color: rgb(206, 144, 190);
     text-align: center;
 }
 h1 {
@@ -32,6 +32,7 @@ img {
 #section2{
     background-color: rgb(234, 196, 245);
     text-align: left;
+    
 }
 .things {
     border: solid black;
